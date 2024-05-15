@@ -20,9 +20,9 @@ from home import views
 
 
 # django admin changes
-admin.site.site_header = "Login to Burhan"
-admin.site.site_title = "Welocom to DashBord"
-admin.site.index_title = "Welocom to Portal"
+admin.site.site_header = "Login to Site"
+admin.site.site_title = "Welcome to DashBoard"
+admin.site.index_title = "Welcome to Portal"
 
 
 
